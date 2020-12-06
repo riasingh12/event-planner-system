@@ -1,10 +1,13 @@
 # event-planner-system
-node js, express, mongodb, reactjs needed
+node js,
+express,
+mongodb,
+reactjs
 
-Node.js: asynchronous event-driven JavaScript runtime built on Chrome's V8 JavaScript engine
-Express: server-side web framework, and node.js the popular and powerful JavaScript server platform.
-MongoDB: built on JSON and JavaScript, used to store JSON data natively
-React: frontend JavaScript framework for building interactive user interfaces in HTML, and communicating with a remote server.
+1. Node.js: asynchronous event-driven JavaScript runtime built on Chrome's V8 JavaScript engine
+2. Express: server-side web framework, and node.js the popular and powerful JavaScript server platform.
+3. MongoDB: built on JSON and JavaScript, used to store JSON data natively
+4. React: frontend JavaScript framework for building interactive user interfaces in HTML, and communicating with a remote server.
 
 #For backend,
 
