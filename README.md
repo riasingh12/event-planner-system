@@ -1,4 +1,10 @@
 # event-planner-system
+Abstract: 
+
+Using MERN stack we have made an event alert system. The user inputs the event as a post, along with the image & details and can also view the uploaded info. The server side is created via Node.js and Express.js. The client side is created using React. The user data is updated in MongoDb cluster as JSON documents in the collection. The user has the liberty to create, update, delete the events which are presented as posts. In the feed, while browsing other users, who are interested in the event can mark it as such.
+
+MERN STACK:
+
 node js,
 express,
 mongodb,
